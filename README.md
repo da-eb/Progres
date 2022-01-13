@@ -1,2 +1,3 @@
 # Progres
-Merely tracking my journey in different languages
+Personal projects/written code...
+Enjoy
